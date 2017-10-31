@@ -1,6 +1,6 @@
 使用: <script src="EasyAjax.js" type="text/javascript"></script>
 
-EasyAjax.url=http://www.xxx.com
+EasyAjax.url="http://www.xxx.com";
 
 EasyAjax('metod',function(json){
 	console.log(json);
